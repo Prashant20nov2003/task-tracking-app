@@ -1,1 +1,1 @@
-Simple task tracking app built with Spring Boot and React(Vite).
+Simple task tracking app built with Spring Boot and React (Vite).
